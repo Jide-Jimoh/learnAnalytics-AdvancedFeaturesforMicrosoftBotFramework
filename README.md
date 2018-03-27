@@ -22,13 +22,12 @@ Thirdly, you should have experience with the portal and be able to create resour
 Please note: This is a rough proposed agenda, and the schedule is subject to change pending class activities and interaction.
 
 - 9-9:25: Introduction and Context
-- 9:30-10:25:  [Lab 1: Log Chat Conversations in your Bot][lab-intelbot-311]
-- 10:30-11:25: [Lab 2: Testing your Bot][lab-intelbot-321]
+- 9:30-10:25:  [Lab 1: Log Chat Conversations in your Bot][lab01]
+- 10:30-11:25: [Lab 2: Testing your Bot][lab02]
 - 11:30-12:00: Discussion
 
-[lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
-[lab-intelbot-311]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-311
-[lab-intelbot-321]:https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-321
+[lab01]: lab01-logging_chat_conversations/0_README.md
+[lab02]: lab02-testing_bots/0_README.md
 
 ## Contributing
 
